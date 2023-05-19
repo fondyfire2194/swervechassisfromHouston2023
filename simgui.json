@@ -1,0 +1,59 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/LimelightVision": "Subsystem",
+      "/LiveWindow/SwerveModuleSM": "Subsystem",
+      "/LiveWindow/Ungrouped/PIDController[10]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[11]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[12]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[13]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[14]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[15]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[16]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[3]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[4]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[5]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[6]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[7]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[8]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[9]": "PIDController",
+      "/LiveWindow/Ungrouped/navX-Sensor[4]": "Gyro",
+      "/Shuffleboard/Arms/IntakeLayout/StopIntake": "Command",
+      "/Shuffleboard/Arms/TrajLayout/TrajectoryChooser": "String Chooser",
+      "/Shuffleboard/Competition/AutoChooser": "String Chooser",
+      "/Shuffleboard/Competition/AutoChooser1": "String Chooser",
+      "/Shuffleboard/Competition/DelayChooser": "String Chooser",
+      "/Shuffleboard/Competition/StartPosition": "String Chooser",
+      "/SmartDashboard/Field2d": "Field2d",
+      "/SmartDashboard/Scheduler": "Scheduler"
+    },
+    "windows": {
+      "/SmartDashboard/Field2d": {
+        "AprilTags": {
+          "image": "C:\\Users\\boyle\\Documents\\FRCC2023\\ChargedUp-2194\\src\\main\\images\\robot.png"
+        },
+        "Swerve Modules": {
+          "length": 0.30000001192092896,
+          "width": 0.20000000298023224
+        },
+        "image": "C:\\Users\\boyle\\Documents\\FRCC2023\\ChargedUp-2194\\src\\main\\images\\Field2d_2023_red.png",
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "SmartDashboard": {
+        "Field2d": {
+          "open": true
+        },
+        "open": true
+      }
+    }
+  }
+}
